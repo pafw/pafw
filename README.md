@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pafw - PeterAnderssonFindWind
 - 👀 I’m interested in pretty much everything
-- 🌱 I’m currently learning doing stuff outside of my private playground findwind.se
-- 💞️ I’m looking to collaborate on anything of practical use
+- 🌱 I’m currently modernising my private playground findwind.se
+- 💞️ I’m looking to collaborate on anything that brings people out on water
 - 📫 Reach me via peter@findwind.se
 
 <!---
